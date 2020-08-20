@@ -5,7 +5,7 @@ $(function()
     {
         var data = event.data;
         var wrap = $('#wrap');
-        wrap.find('table').append("<tr style='text-allign: center;' class=\"heading\"><th>ID</th><th>Name</th></tr>");
+        wrap.find('table').append("<tr style='text-allign: center;' class=\"heading\"><th>ID</th><th>Name</th><th>Ping</th><th>Activity</th></tr>");
         if (data.meta && data.meta == 'close')
         {
             document.getElementById("ptbl").innerHTML = "";

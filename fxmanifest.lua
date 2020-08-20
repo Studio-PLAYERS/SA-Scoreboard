@@ -1,9 +1,10 @@
---[[ Need Help? Join my discord @ discord.gg/yWddFpQ ]] 
+description 'Scoreboard'
+
+-- temporary!
 ui_page 'html/index.html'
 
-description 'Clean Scoreboard'
-
 client_script 'client.lua'
+server_script 'server.lua'
 
 files {
     'html/index.html',
@@ -13,3 +14,6 @@ files {
     'config.js',
     'html/listener.js',
 }
+
+fx_version 'adamant'
+game 'gta5'

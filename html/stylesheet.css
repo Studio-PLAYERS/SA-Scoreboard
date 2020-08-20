@@ -17,7 +17,7 @@ html {
 	width: var(--main-window-width);
 	min-height: var(--main-window-height);
 	font-weight: var(--main-font-weight);
-	margin-top: 10%;
+	margin-top: 2.5%;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: var(--main-bg-color);
@@ -60,6 +60,7 @@ th {
 }
 
 #footer {
+	bottom: 0;
     color: var(--ext-footer-font-color);
 	text-align: var(--ext-footer-font-align);
 	font-family: var(--main-font);
