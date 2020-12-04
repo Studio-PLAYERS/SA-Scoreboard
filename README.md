@@ -1,7 +1,7 @@
 # Clean Scoreboard *Fully Configurable*
 **z-scoreboard** is a resource by *Zua* that allows users to __easily__ configure the playerlist or scoreboard
 
-![alt-text](https://github.com/ThatZiv/z-scoreboard/blob/master/screenshots/ss5.png?raw=true)
+![alt-text](https://i.imgur.com/pFaR17k.png)
 
 ## __Installation__
 1. Download [Here](https://github.com/ThatZiv/z-scoreboard).
