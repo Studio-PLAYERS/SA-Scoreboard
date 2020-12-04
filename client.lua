@@ -1,7 +1,6 @@
---[[ Need Help? Join my discord @ discord.gg/yWddFpQ ]]
-
+afktime = 900 --set this to time in seconds before AFK status is set. Default: 900 (15 minutes)
+-----------------------------------
 local nui = false
-
 
 players = {}
 afks = {}
@@ -96,7 +95,7 @@ Citizen.CreateThread(function()
 				TriggerServerEvent("setACTIVE")
 				AFK = false
 			end
-			time = 1800 --30 minutes
+			time = afktime
 		end
 		prevPos = currentPos
 	end
