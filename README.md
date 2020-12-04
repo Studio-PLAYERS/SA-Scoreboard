@@ -67,12 +67,4 @@ To change keypress value to open scoreboard -> go to `client.lua` | Default Key:
 
 ## __Support__
 If you need any help/support, join my [discord](https://discordapp.com/invite/yWddFpQ) and ask in **#support**
-
-## __Screenshots__
-![alt-text](https://raw.githubusercontent.com/ThatZiv/z-scoreboard/master/screenshots/ss1.png)
-![alt-text](https://raw.githubusercontent.com/ThatZiv/z-scoreboard/master/screenshots/ss2.png)
-![alt-text](https://raw.githubusercontent.com/ThatZiv/z-scoreboard/master/screenshots/ss3.png)
-![alt-text](https://raw.githubusercontent.com/ThatZiv/z-scoreboard/master/screenshots/ss4.png)
-![alt-text](https://raw.githubusercontent.com/ThatZiv/z-scoreboard/master/screenshots/ss5.png)
-
 -------
