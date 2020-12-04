@@ -1,7 +1,7 @@
 /* Config 2 */
-var title = 'Public Safety Roleplay'
-var headerImage = 'https://i.imgur.com/mzlmMAy.png';
-var footer = 'http://sadps.com/apply';
+var title = 'Server Title'
+var headerImage = 'https://i.imgur.com/SqJCooD.png';
+var footer = 'Footer Note  or URL';
 /* ------------------------------- */
 /* ext no touchy touchy */
 document.getElementById('title').innerHTML = title;
