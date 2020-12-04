@@ -1,11 +1,9 @@
 /* Config 2 */
-var title = 'Server Title'
-var headerImage = 'https://i.imgur.com/SqJCooD.png';
-var footer = 'Footer Note  or URL';
+var headerImage = 'https://i.imgur.com/mzlmMAy.png';
+var footer = 'http://sadps.com/apply';
 /* ------------------------------- */
 /* ext no touchy touchy */
-document.getElementById('title').innerHTML = title;
-document.getElementById('footer').innerHTML = footer;
-document.getElementById('headerImage').src = headerImage;
+var headerImage = 'https://i.imgur.com/SqJCooD.png';
+var footer = 'Footer Note  or URL';
 
 /* Need Help? Join my discord @ discord.gg/yWddFpQ */
