@@ -1,4 +1,4 @@
-#Studio PLAYERS
+# Studio PLAYERS
 - This is our edit of TevorBarns edit of z-scoreboard
 
 # Clean Scoreboard *Fully Configurable*
