@@ -1,3 +1,6 @@
+#Studio PLAYERS
+- This is our edit of TevorBarns edit of z-scoreboard
+
 # Clean Scoreboard *Fully Configurable*
 **z-scoreboard** is a resource by *Zua* that allows users to __easily__ configure the playerlist or scoreboard
 
